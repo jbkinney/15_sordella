@@ -9,12 +9,12 @@ The raw sequence data for this study is available on the Sequence Read Archive, 
 PUBLISHED RESULTS
 
 The published results are provided in the directory ```published/```.
-* ```all_unique_seqs.txt``` shows all of the unique reconstructed sequences for the p53 locus described in this paper. 
-* ```all_summarized_seqs.txt``` shows summary information for each unique sequence.
-* ```stats.txt``` shows the number and percentage of sequences in each sample that could be successfully reconstructed. 
-* ```alignment.txt``` shows an alignment of the most prevalent sequences, along with their observed counts in the 8 samples. 
-* ```rates.pdf``` is the bar chart shown in Fig.\ 2D
-* ```mutations.pdf``` is the bar chart shown in Fig.\ 2E
+* [```all_unique_seqs.txt```](published/all_unique_seqs.txt) shows all of the unique reconstructed sequences for the p53 locus described in this paper. 
+* [```all_summarized_seqs.txt```](published/all_summarized_seqs.txt) shows summary information for each unique sequence.
+* [```stats.txt```](published/stats.txt) shows the number and percentage of sequences in each sample that could be successfully reconstructed. 
+* [```alignment.txt```](published/alignment.txt) shows an alignment of the most prevalent sequences, along with their observed counts in the 8 samples. 
+* [```rates.pdf```](published/rates.pdf)  is the bar chart shown in Fig. 2D
+* [```mutations.pdf```](published/mutations.pdf)  is the bar chart shown in Fig. 2E
 
 RUNNING THE PIPELINE ON SAMPLE DATA
 
