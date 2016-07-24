@@ -1,0 +1,2 @@
+m_mem_free is absent, setting to default of 2G per task: watch maxvmem usage with qstat and qacct, and adjust accordingly
+Your job 13161697 ("script_num_0.sh") has been submitted

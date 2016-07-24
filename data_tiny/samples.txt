@@ -1,0 +1,9 @@
+number  sample
+7       ecpv_ren
+8       ecpv_p53
+1       edcpv_ren_6d
+3       edcpv_p53_shield_2d
+4       edcpv_p53_shield_4d
+5       edcpv_p53_shield_6d
+2       edcpv_p53_ns_2d
+6       edcpv_p53_ns_6d
