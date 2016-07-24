@@ -2,9 +2,9 @@
 
 Code and processed data reported in Senturk et al.(2016), Nat. Commun. [in press]
 
-DATA SETS
+DATA 
 
-The raw sequence data for this study is available on the Sequence Read Archive, accession number [SRP078612](http://trace.ncbi.nlm.nih.gov/Traces/study/?acc=SRP078612). 
+The raw sequence data for this study is available on the Sequence Read Archive under accession number [SRP078612](http://trace.ncbi.nlm.nih.gov/Traces/study/?acc=SRP078612). The first 10K reads for each of the 8 samples are provided in the FASTQ files in the ```data_tiny/``` directory. The Cas9-targeted region of p53, as well as the primers use to amplify this locus for sequencing, are given in [```data/regions.txt```](data/regions.txt). The content of each of the 8 sequencing samples is described in [```data/samples.txt```](data/samples.txt). 
 
 PUBLISHED RESULTS
 
